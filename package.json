@@ -18,5 +18,8 @@
   "homepage": "https://github.com/dustin-keks/learning-npm-the-node-package-manager-4362456#readme",
   "dependencies": {
     "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
   }
 }
