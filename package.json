@@ -1,0 +1,19 @@
+{
+  "name": "learning-npm-the-node-package-manager-4362456",
+  "version": "1.0.0",
+  "description": "This is the repository for the LinkedIn Learning course Learning npm: A Package Manager. The full course is available from [LinkedIn Learning][lil-course-url].",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustin-keks/learning-npm-the-node-package-manager-4362456.git"
+  },
+  "author": "Dustin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustin-keks/learning-npm-the-node-package-manager-4362456/issues"
+  },
+  "homepage": "https://github.com/dustin-keks/learning-npm-the-node-package-manager-4362456#readme"
+}
