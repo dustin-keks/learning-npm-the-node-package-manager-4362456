@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dustin-keks/learning-npm-the-node-package-manager-4362456/issues"
   },
-  "homepage": "https://github.com/dustin-keks/learning-npm-the-node-package-manager-4362456#readme"
+  "homepage": "https://github.com/dustin-keks/learning-npm-the-node-package-manager-4362456#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
